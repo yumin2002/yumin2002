@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yumin2002/yumin2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I’m Yuhan Min  
+
+🎓 CS & Economics @ University of Michigan → Incoming MSCS @ UCSD  
+💻 Software Engineer | Backend & Full-Stack Development | Cloud & Distributed Systems  
+🌱 Exploring Open Source | Interested in scalable web apps & optimization  
+
 [![An image of @yumin2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yumin2002)](https://holopin.io/@yumin2002)
