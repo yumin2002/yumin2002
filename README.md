@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I’m Yuhan Min  
 
-🎓 CS & Economics @ University of Michigan → Incoming MSCS @ UCSD  
+🎓 CS & Economics @ University of Michigan
 💻 Software Engineer | Backend & Full-Stack Development | Cloud & Distributed Systems  
 🌱 Exploring Open Source | Interested in scalable web apps & optimization  
 
